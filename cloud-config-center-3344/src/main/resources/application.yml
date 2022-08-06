@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:zzyybs/springcloud-config.git     #填写你自己的github路径
+          uri: git@github.com:TheKingInTheWorld/git-github.com-zzyybs-springcloud-config.git    #填写你自己的github路径
           search-paths:
             - springcloud-config
       label: master
